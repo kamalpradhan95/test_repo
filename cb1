@@ -1,0 +1,164 @@
+{
+  "person": {
+    "id": "cb8873bb-f917-4420-b34b-f98ec289db36",
+    "name": {
+      "fullName": "Stephan Breideneich",
+      "givenName": "Stephan",
+      "familyName": "Breideneich"
+    },
+    "email": "sb@breos.com",
+    "gender": null,
+    "location": "Stuttgart, BW, DE",
+    "timeZone": "Europe/Berlin",
+    "utcOffset": 2,
+    "geo": {
+      "city": "Stuttgart",
+      "state": "Baden-Württemberg",
+      "stateCode": "BW",
+      "country": "Germany",
+      "countryCode": "DE",
+      "lat": 48.7758459,
+      "lng": 9.1829321
+    },
+    "bio": null,
+    "site": "http://www.breos.com",
+    "avatar": "https://d1ts43dypk8bqh.cloudfront.net/v1/avatars/cb8873bb-f917-4420-b34b-f98ec289db36",
+    "employment": {
+      "domain": "breos.com",
+      "name": "BREOS GmbH",
+      "title": "Die besten BI-Lösung für Ihr Unternehmen!",
+      "role": "engineering",
+      "seniority": null
+    },
+    "facebook": {
+      "handle": null
+    },
+    "github": {
+      "handle": null,
+      "id": null,
+      "avatar": null,
+      "company": null,
+      "blog": null,
+      "followers": null,
+      "following": null
+    },
+    "twitter": {
+      "handle": "Data_Rocket",
+      "id": 567515879,
+      "bio": null,
+      "followers": 14,
+      "following": 40,
+      "statuses": 29,
+      "favorites": 28,
+      "location": "",
+      "site": "http://www.breos.com",
+      "avatar": "https://pbs.twimg.com/profile_images/617762196961914880/RyoO6L-y.jpg"
+    },
+    "linkedin": {
+      "handle": "in/stephan-breideneich-1a708827"
+    },
+    "googleplus": {
+      "handle": null
+    },
+    "aboutme": {
+      "handle": null,
+      "bio": null,
+      "avatar": null
+    },
+    "gravatar": {
+      "handle": null,
+      "urls": null,
+      "avatar": null,
+      "avatars": [
+
+      ]
+    },
+    "fuzzy": true
+  },
+  "company": {
+    "id": "5c7dffc1-9ed4-419e-a01c-2409dfcf1213",
+    "name": "BREOS",
+    "legalName": null,
+    "domain": "breos.com",
+    "domainAliases": [
+      "breoscrm.de"
+    ],
+    "url": "http://breos.com",
+    "site": {
+      "url": "http://breos.com",
+      "title": "BREOS - Tableau Business Intelligence Visualisierung - Stuttgart |",
+      "h1": null,
+      "metaDescription": null,
+      "metaAuthor": null,
+      "phoneNumbers": [
+        "+49 711 5109996",
+        "+49 431 994606416",
+        "+49 711 5109998",
+        "+49 431 994605000"
+      ],
+      "emailAddresses": [
+        "info@breos.com"
+      ]
+    },
+    "category": {
+      "sector": "Information Technology",
+      "industryGroup": "Software & Services",
+      "industry": "Internet Software & Services",
+      "subIndustry": "Internet Software & Services"
+    },
+    "tags": [
+      "Software"
+    ],
+    "description": "Impressum: https://t.co/IcDoW9UZNi",
+    "foundedDate": null,
+    "location": "Böblinger Str. 52, 70199 Stuttgart, Germany",
+    "timeZone": "Europe/Berlin",
+    "utcOffset": 2,
+    "geo": {
+      "streetNumber": "52",
+      "streetName": "Böblinger Straße",
+      "subPremise": null,
+      "city": "Stuttgart",
+      "postalCode": "70199",
+      "state": "Baden-Württemberg",
+      "stateCode": "BW",
+      "country": "Germany",
+      "countryCode": "DE",
+      "lat": 48.763498,
+      "lng": 9.1619555
+    },
+    "logo": "https://logo.clearbit.com/breos.com",
+    "facebook": {
+      "handle": null
+    },
+    "linkedin": {
+      "handle": "company/breos-gmbh"
+    },
+    "twitter": {
+      "handle": "Breos_Stuttgart",
+      "id": "4868690237",
+      "bio": "Impressum: https://t.co/IcDoW9UZNi",
+      "followers": 218,
+      "following": 350,
+      "location": "Stuttgart, Baden-Württemberg",
+      "site": "https://t.co/48YSRd8Epp",
+      "avatar": "https://pbs.twimg.com/profile_images/720613403002302468/BrumiHje_normal.jpg"
+    },
+    "crunchbase": {
+      "handle": null
+    },
+    "emailProvider": false,
+    "type": "private",
+    "ticker": null,
+    "phone": null,
+    "metrics": {
+      "alexaUsRank": null,
+      "alexaGlobalRank": 6147465,
+      "googleRank": null,
+      "employees": 5,
+      "marketCap": null,
+      "raised": null,
+      "annualRevenue": null
+    }
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "person": null,
+  "company": {
+    "id": "c0d664ca-8384-48a0-9396-0fc83fb133b6",
+    "name": "Berkeley Group Holdings Plc",
+    "legalName": "Berkeley First Ltd",
+    "domain": "berkeleygroup.co.uk",
+    "domainAliases": [
+      "berkeleygroup.hk",
+      "berkeleygroup.ae",
+      "berkeleygroup.sg",
+      "stwilliam.co.uk"
+    ],
+    "url": "http://www.berkeleygroup.co.uk",
+    "site": {
+      "url": "http://berkeleygroup.co.uk",
+      "title": "New Homes & Property Development - Designed for Life | Berkeley Group",
+      "h1": "Find your new home",
+      "metaDescription": "Choosing a home is one of the most important decisions of our lives. Come home to Berkeley, and you will be confident that you have made the best decision.",
+      "metaAuthor": null,
+      "phoneNumbers": [
+        "+86 21 2285 9600",
+        "+44 20 3675 1501",
+        "+44 20 7601 7333",
+        "+44 20 7720 0131",
+        "+44 20 8349 6210",
+        "+44 20 3202 3962",
+        "+971 4 270 1999",
+        "+65 6922 6150",
+        "+852 3753 6900",
+        "+44 20 3675 4499"
+      ],
+      "emailAddresses": [
+        "customerservice.northeastlondon@berkeleygroup.co.uk",
+        "custcareeastern@berkeleygroup.co.uk",
+        "customerservice.southern@berkeleygroup.co.uk",
+        "customerservicesoutheastlondon@berkeleygroup.co.uk",
+        "customerservice.london@berkeleygroup.co.uk",
+        "customerservice.western@berkeleygroup.co.uk"
+      ]
+    },
+    "category": {
+      "sector": "Industrials",
+      "industryGroup": "Capital Goods",
+      "industry": "Construction & Engineering",
+      "subIndustry": "Construction"
+    },
+    "tags": [
+      "Construction",
+      "E-commerce",
+      "B2C",
+      "Education"
+    ],
+    "description": "Choosing a home is one of the most important decisions of our lives. Come home to Berkeley, and you will be confident that you have made the best decision.",
+    "foundedDate": null,
+    "location": "Cobham, UK",
+    "timeZone": "Europe/London",
+    "utcOffset": 1,
+    "geo": {
+      "streetNumber": null,
+      "streetName": null,
+      "subPremise": null,
+      "city": "Cobham",
+      "postalCode": null,
+      "state": "England",
+      "stateCode": "England",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "lat": 51.32878299999999,
+      "lng": -0.410856
+    },
+    "logo": "https://logo.clearbit.com/berkeleygroup.co.uk",
+    "facebook": {
+      "handle": null
+    },
+    "linkedin": {
+      "handle": "company/berkeley-group-holdings-plc"
+    },
+    "twitter": {
+      "handle": null,
+      "id": null,
+      "bio": null,
+      "followers": null,
+      "following": null,
+      "location": null,
+      "site": null,
+      "avatar": null
+    },
+    "crunchbase": {
+      "handle": null
+    },
+    "emailProvider": false,
+    "type": "public",
+    "ticker": "BKG",
+    "phone": null,
+    "metrics": {
+      "alexaUsRank": null,
+      "alexaGlobalRank": 224183,
+      "googleRank": null,
+      "employees": 1500,
+      "marketCap": null,
+      "raised": null,
+      "annualRevenue": null
+    }
+  }
+}{
+  "person": null,
+  "company": {
+    "id": "c0d664ca-8384-48a0-9396-0fc83fb133b6",
+    "name": "Berkeley Group Holdings Plc",
+    "legalName": "Berkeley First Ltd",
+    "domain": "berkeleygroup.co.uk",
+    "domainAliases": [
+      "berkeleygroup.hk",
+      "berkeleygroup.ae",
+      "berkeleygroup.sg",
+      "stwilliam.co.uk"
+    ],
+    "url": "http://www.berkeleygroup.co.uk",
+    "site": {
+      "url": "http://berkeleygroup.co.uk",
+      "title": "New Homes & Property Development - Designed for Life | Berkeley Group",
+      "h1": "Find your new home",
+      "metaDescription": "Choosing a home is one of the most important decisions of our lives. Come home to Berkeley, and you will be confident that you have made the best decision.",
+      "metaAuthor": null,
+      "phoneNumbers": [
+        "+86 21 2285 9600",
+        "+44 20 3675 1501",
+        "+44 20 7601 7333",
+        "+44 20 7720 0131",
+        "+44 20 8349 6210",
+        "+44 20 3202 3962",
+        "+971 4 270 1999",
+        "+65 6922 6150",
+        "+852 3753 6900",
+        "+44 20 3675 4499"
+      ],
+      "emailAddresses": [
+        "customerservice.northeastlondon@berkeleygroup.co.uk",
+        "custcareeastern@berkeleygroup.co.uk",
+        "customerservice.southern@berkeleygroup.co.uk",
+        "customerservicesoutheastlondon@berkeleygroup.co.uk",
+        "customerservice.london@berkeleygroup.co.uk",
+        "customerservice.western@berkeleygroup.co.uk"
+      ]
+    },
+    "category": {
+      "sector": "Industrials",
+      "industryGroup": "Capital Goods",
+      "industry": "Construction & Engineering",
+      "subIndustry": "Construction"
+    },
+    "tags": [
+      "Construction",
+      "E-commerce",
+      "B2C",
+      "Education"
+    ],
+    "description": "Choosing a home is one of the most important decisions of our lives. Come home to Berkeley, and you will be confident that you have made the best decision.",
+    "foundedDate": null,
+    "location": "Cobham, UK",
+    "timeZone": "Europe/London",
+    "utcOffset": 1,
+    "geo": {
+      "streetNumber": null,
+      "streetName": null,
+      "subPremise": null,
+      "city": "Cobham",
+      "postalCode": null,
+      "state": "England",
+      "stateCode": "England",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "lat": 51.32878299999999,
+      "lng": -0.410856
+    },
+    "logo": "https://logo.clearbit.com/berkeleygroup.co.uk",
+    "facebook": {
+      "handle": null
+    },
+    "linkedin": {
+      "handle": "company/berkeley-group-holdings-plc"
+    },
+    "twitter": {
+      "handle": null,
+      "id": null,
+      "bio": null,
+      "followers": null,
+      "following": null,
+      "location": null,
+      "site": null,
+      "avatar": null
+    },
+    "crunchbase": {
+      "handle": null
+    },
+    "emailProvider": false,
+    "type": "public",
+    "ticker": "BKG",
+    "phone": null,
+    "metrics": {
+      "alexaUsRank": null,
+      "alexaGlobalRank": 224183,
+      "googleRank": null,
+      "employees": 1500,
+      "marketCap": null,
+      "raised": null,
+      "annualRevenue": null
+    }
+  }
+}

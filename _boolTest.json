@@ -2,5 +2,12 @@
 "Bool1":true,
 "Bool2":false,
 "Bool3":0,
-"Bool4":1
+"Bool4":1,
+  "Bool5":32,
+  "Bool6":-22,
+  "Bool7":"true",
+  "Bool8":"false",
+  "Bool9":"none",
+  "bool10":"yes",
+  "bool11":"no"
 }

@@ -33,13 +33,15 @@
 				"Physics",
 				"Chemistry",
 				"Maths",
-				"Biology"
+				"Biology",
+				"History"
 			],
 			"Marks": [
 				15,
 				16,
 				17,
-				18
+				18,
+				20
 			]
 		}
 	]

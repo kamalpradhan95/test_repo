@@ -1,0 +1,247 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "currenthurricane": 1
+  }
+	}
+		,
+"currenthurricane": [
+	{
+		"stormInfo": {
+		"stormName":"Nock-ten",
+		"stormName_Nice":"Tropical Storm Nock-ten",
+		"stormNumber":"wp201630",
+		"requesturl":"/hurricane/western-pacific/2016/Tropical-Storm-Nock-ten",
+		"wuiurl":"http://www.wunderground.com/hurricane/western-pacific/2016/Tropical-Storm-Nock-ten"
+		},
+		"Current": {
+		"lat":15.0,
+		"lon":116.4,
+		"SaffirSimpsonCategory":0,
+		"Category":"Tropical Storm",
+		"Time": {
+		"hour": "19","hour_padded": "19","year": "2016","mon": "12","mon_padded": "12","mon_abbrev": "Dec","mday": "26","mday_padded": "26","yday": "360","epoch": "1482796800","pretty": "7:00 PM EST on December 26, 2016","civil": "7:00 PM","month_name": "December","month_name_abbrev": "Dec","weekday_name": "Monday","weekday_name_night": "Monday Night","weekday_name_abbrev": "Mon","weekday_name_unlang": "Monday","weekday_name_night_unlang": "Monday Night","ampm": "PM"
+		},
+		"TimeGMT": {
+		"year": "2016","mon": "12","mon_padded": "12","mon_abbrev": "Dec","mday": "27","mday_padded": "27","yday": "361","epoch": "1482796800","pretty": "12:00 AM GMT on December 27, 2016","civil": "12:00 AM","month_name": "December","month_name_abbrev": "Dec","weekday_name": "Tuesday","weekday_name_night": "Tuesday Night","weekday_name_abbrev": "Tue","weekday_name_unlang": "Tuesday","weekday_name_night_unlang": "Tuesday Night","ampm": "AM"
+		},
+		"WindSpeed":{
+		"Kts":60,
+		"Mph":70,
+		"Kph":110
+		},
+		"WindGust":{
+		"Kts":75,
+		"Mph":85,
+		"Kph":140
+		},
+		"Fspeed":{
+		"Kts":11,
+		"Mph":12,
+		"Kph":11
+		},
+		"Movement":{
+		"Degrees":"285",
+		"Text":"WNW"
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":130
+		,"SE":60
+		,"SW":65
+		,"NW":120
+		},
+		"50":{
+		"NE":35
+		,"SE":25
+		,"SW":25
+		,"NW":35
+		},
+		"64":{
+		"NE":null
+		,"SE":null
+		,"SW":null
+		,"NW":null
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		"forecast": [
+		{
+		"ForecastHour":"12HR",
+		"SaffirSimpsonCategory":0,
+		"lat":14.8,
+		"lon":114.8,"Category":"ts",
+		"Time": {
+		"hour": "7","hour_padded": "07","year": "2016","mon": "12","mon_padded": "12","mon_abbrev": "Dec","mday": "27","mday_padded": "27","yday": "361","epoch": "1482840000","pretty": "7:00 AM EST on December 27, 2016","civil": "7:00 AM","month_name": "December","month_name_abbrev": "Dec","weekday_name": "Tuesday","weekday_name_night": "Tuesday Night","weekday_name_abbrev": "Tue","weekday_name_unlang": "Tuesday","weekday_name_night_unlang": "Tuesday Night","ampm": "AM"
+		},
+		"TimeGMT": {
+		"hour": "12","hour_padded": "12","year": "2016","mon": "12","mon_padded": "12","mon_abbrev": "Dec","mday": "27","mday_padded": "27","yday": "361","epoch": "1482840000","pretty": "12:00 PM GMT on December 27, 2016","civil": "12:00 PM","month_name": "December","month_name_abbrev": "Dec","weekday_name": "Tuesday","weekday_name_night": "Tuesday Night","weekday_name_abbrev": "Tue","weekday_name_unlang": "Tuesday","weekday_name_night_unlang": "Tuesday Night","ampm": "PM"
+		},
+		"WindSpeed":{
+		"Kts":45,
+		"Mph":50,
+		"Kph":85
+		},
+		"WindGust":{
+		"Kts":55,
+		"Mph":65,
+		"Kph":100
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":140
+		,"SE":45
+		,"SW":60
+		,"NW":120
+		},
+		"50":{
+		"NE":null
+		,"SE":null
+		,"SW":null
+		,"NW":null
+		},
+		"64":{
+		"NE":null
+		,"SE":null
+		,"SW":null
+		,"NW":null
+		}
+		},
+		"ErrorRadius":"0.6"
+		},
+		{
+		"ForecastHour":"24HR",
+		"SaffirSimpsonCategory":0,
+		"lat":13.8,
+		"lon":113.1,"Category":"ts",
+		"Time": {
+		"hour": "19","hour_padded": "19","year": "2016","mon": "12","mon_padded": "12","mon_abbrev": "Dec","mday": "27","mday_padded": "27","yday": "361","epoch": "1482883200","pretty": "7:00 PM EST on December 27, 2016","civil": "7:00 PM","month_name": "December","month_name_abbrev": "Dec","weekday_name": "Tuesday","weekday_name_night": "Tuesday Night","weekday_name_abbrev": "Tue","weekday_name_unlang": "Tuesday","weekday_name_night_unlang": "Tuesday Night","ampm": "PM"
+		},
+		"TimeGMT": {
+		"year": "2016","mon": "12","mon_padded": "12","mon_abbrev": "Dec","mday": "28","mday_padded": "28","yday": "362","epoch": "1482883200","pretty": "12:00 AM GMT on December 28, 2016","civil": "12:00 AM","month_name": "December","month_name_abbrev": "Dec","weekday_name": "Wednesday","weekday_name_night": "Wednesday Night","weekday_name_abbrev": "Wed","weekday_name_unlang": "Wednesday","weekday_name_night_unlang": "Wednesday Night","ampm": "AM"
+		},
+		"WindSpeed":{
+		"Kts":35,
+		"Mph":40,
+		"Kph":65
+		},
+		"WindGust":{
+		"Kts":45,
+		"Mph":50,
+		"Kph":85
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":160
+		,"SE":20
+		,"SW":60
+		,"NW":125
+		},
+		"50":{
+		"NE":null
+		,"SE":null
+		,"SW":null
+		,"NW":null
+		},
+		"64":{
+		"NE":null
+		,"SE":null
+		,"SW":null
+		,"NW":null
+		}
+		},
+		"ErrorRadius":"1.2"
+		},
+		{
+		"ForecastHour":"36HR",
+		"SaffirSimpsonCategory":-2,
+		"lat":12.4,
+		"lon":111.5,"Category":"td",
+		"Time": {
+		"hour": "7","hour_padded": "07","year": "2016","mon": "12","mon_padded": "12","mon_abbrev": "Dec","mday": "28","mday_padded": "28","yday": "362","epoch": "1482926400","pretty": "7:00 AM EST on December 28, 2016","civil": "7:00 AM","month_name": "December","month_name_abbrev": "Dec","weekday_name": "Wednesday","weekday_name_night": "Wednesday Night","weekday_name_abbrev": "Wed","weekday_name_unlang": "Wednesday","weekday_name_night_unlang": "Wednesday Night","ampm": "AM"
+		},
+		"TimeGMT": {
+		"hour": "12","hour_padded": "12","year": "2016","mon": "12","mon_padded": "12","mon_abbrev": "Dec","mday": "28","mday_padded": "28","yday": "362","epoch": "1482926400","pretty": "12:00 PM GMT on December 28, 2016","civil": "12:00 PM","month_name": "December","month_name_abbrev": "Dec","weekday_name": "Wednesday","weekday_name_night": "Wednesday Night","weekday_name_abbrev": "Wed","weekday_name_unlang": "Wednesday","weekday_name_night_unlang": "Wednesday Night","ampm": "PM"
+		},
+		"WindSpeed":{
+		"Kts":20,
+		"Mph":25,
+		"Kph":35
+		},
+		"WindGust":{
+		"Kts":30,
+		"Mph":35,
+		"Kph":55
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":null
+		,"SE":null
+		,"SW":null
+		,"NW":null
+		},
+		"50":{
+		"NE":null
+		,"SE":null
+		,"SW":null
+		,"NW":null
+		},
+		"64":{
+		"NE":null
+		,"SE":null
+		,"SW":null
+		,"NW":null
+		}
+		},
+		"ErrorRadius":"1.7"
+		}
+		],
+		"ExtendedForecast": [
+		],
+		"track": [
+		]
+	}
+]
+}

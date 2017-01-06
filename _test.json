@@ -8,12 +8,18 @@
 				"Chemistry",
 				"BMaths",
 				"Botany",
-				"NA"
+				"NA",
+				"SA",
+				"DA"
 			],
 			"Marks": [
 				10,
 				11,
-				12
+				12,
+				11,
+				09,
+				07,
+				04
 			]
 		},
 		{
@@ -23,11 +29,14 @@
 				"Physics",
 				"Chemistry",
 				"Zoology",
-				"ss"
+				"ss",
+				"DATA STRUCT"
 			],
 			"Marks": [
 				13,
-				14
+				14,
+				19,
+				20
 			]
 		},
 		{
@@ -39,14 +48,16 @@
 				"BMaths",
 				"Biology",
 				"History",
-				"electrical"
+				"electrical",
+				"NATURAL"
 			],
 			"Marks": [
 				15,
 				16,
 				17,
 				18,
-				21
+				21,
+				23
 			]
 		}
 	]
